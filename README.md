@@ -13,7 +13,7 @@
 <!-- Profile Views -->
 
 <p align="center">
-  <img src="https://count.getloli.com/get/@captainsahil001?theme=moebooru"/>
+  <img src="https://img.shields.io/badge/Profile%20Views-Visitor--Counter-blue?style=for-the-badge"/>
 </p>
 
 ---
