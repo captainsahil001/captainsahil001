@@ -1,10 +1,19 @@
-<h1 align="center">Hi 👋, I'm Sahil Ghosh</h1>
-<h3 align="center">Backend Developer • Android Developer • AI Enthusiast</h3>
+<!-- Animated Header -->
 
 <p align="center">
-  <a href="https://linkedin.com/in/sahilghosh"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/></a>
-  <a href="https://instagram.com/0.s_a.h_i_l_5"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/></a>
-  <a href="mailto:sahilghosh0512@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/></a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Sahil%20Ghosh&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</p>
+
+<!-- Dynamic Typing Intro -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&color=58A6FF&center=true&vCenter=true&width=600&lines=Backend+Developer+%7C+Spring+Boot;Android+Developer+%7C+Jetpack+Compose;AI+Enthusiast+%7C+Real+World+Apps;Clean+Architecture+%7C+Scalable+Systems"/>
+</p>
+
+<!-- Profile Views -->
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=captainsahil001&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
 
 ---
@@ -152,7 +161,7 @@
 
 ---
 
-## 📊 GitHub Insights  
+## 📊 GitHub Insights
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=captainsahil001&theme=transparent" width="95%"/>
@@ -166,14 +175,6 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=captainsahil001&theme=transparent" width="45%"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=captainsahil001&theme=transparent" width="45%"/>
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=captainsahil001&theme=github-compact&bg_color=00000000&hide_border=true"/>
 </p>
 
 ---
