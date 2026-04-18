@@ -155,12 +155,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=captainsahil001&show_icons=true&theme=transparent&bg_color=00000000&hide_border=true&hide=c,cpp&count_private=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=captainsahil001&show_icons=true&theme=transparent&bg_color=00000000&hide_border=true&count_private=true"/>
 <img src="https://streak-stats.demolab.com?user=captainsahil001&theme=transparent&background=00000000&hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=captainsahil001&layout=compact&theme=transparent&bg_color=00000000&hide_border=true&hide=c,cpp"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=captainsahil001&layout=compact&theme=transparent&bg_color=00000000&hide_border=true&langs_count=6"/>
 </p>
 
 ---
