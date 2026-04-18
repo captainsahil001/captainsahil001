@@ -161,7 +161,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=captainsahil001&layout=compact&theme=transparent&bg_color=00000000&hide_border=true&langs_count=6" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=captainsahil001&layout=compact&theme=transparent&bg_color=00000000&hide_border=true&hide=c,cpp,c%2B%2B" height="150"/>
 </p>
 
 ---
