@@ -155,17 +155,17 @@
 ## 📊 GitHub Insights  
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=captainsahil001&theme=github_dark" width="95%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=captainsahil001&theme=transparent" width="95%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=captainsahil001&theme=github_dark" width="45%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=captainsahil001&theme=github_dark&utcOffset=5.5" width="45%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=captainsahil001&theme=transparent" width="45%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=captainsahil001&theme=transparent&utcOffset=5.5" width="45%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=captainsahil001&theme=github_dark" width="45%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=captainsahil001&theme=github_dark" width="45%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=captainsahil001&theme=transparent" width="45%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=captainsahil001&theme=transparent" width="45%"/>
 </p>
 
 ---
