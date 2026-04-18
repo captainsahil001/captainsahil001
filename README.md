@@ -13,7 +13,7 @@
 <!-- Profile Views -->
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Profile%20Views-Visitor--Counter-blue?style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=captainsahil001&label=Profile%20Views&color=0e75b6&style=flat&initial=500"/>
 </p>
 
 ---
