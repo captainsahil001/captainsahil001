@@ -13,7 +13,7 @@
 <!-- Profile Views -->
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=captainsahil001&label=Profile%20Views&color=0e75b6&style=flat"/>
+  <img src="https://komarev.com/ghpvc/?username=captainsahil001&label=Profile%20Views&color=58A6FF&style=flat"/>
 </p>
 
 ---
